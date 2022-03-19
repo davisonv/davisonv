@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Davison 😆</h1>
-<h3 align="center">Sou desenvolvedor fullstack, codando de Natal-RN</h3>
+<h3 align="center">Sou desenvolvedor fullstack, codando em Natal-RN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davisonv&label=Profile%20views&color=0e75b6&style=flat" alt="davisonv" /> </p>
 
